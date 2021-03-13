@@ -1,0 +1,15 @@
+body {
+  background-image: url("body-bg-dark.png");
+  color: #666d7a;
+  margin: 0;
+  font-family: 'Reem Kufi', sans-serif;
+  
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
